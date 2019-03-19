@@ -21,4 +21,4 @@ For example, it could be useful to answer any of these that are relevant + usefu
 
 However, if adding this extra information will preclude you from submitting a PR, please submit it anyway. In that case, it would take much longer to decide to merge the PR, but I would be happy to take on the responsibility to seek out that information to have a guage on its credibility. 
 
-If you had this treatment but would prefer to submit anonymously, please reach out to me via twitter.com/meghafon (DMs are open). I will work to set up a fully anonymized system in the future
+If you had this treatment but would prefer to submit anonymously, please reach out to me via twitter - [@meghafon](twitter.com/meghafon) (DMs are open). I will work to set up a fully anonymized system in the future
